@@ -6,6 +6,11 @@
         <option value="E:\code\GAD_proj\gad_proj" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:\code\teacher_h5" />
+      </list>
+    </option>
     <option name="lastPath" value="E:\code\teacher_h5" />
     <option name="additionalInfo">
       <map>
@@ -26,8 +31,8 @@
               <option name="build" value="WS-171.4694.29" />
               <option name="productionCode" value="WS" />
               <option name="binFolder" value="D:\JetBrains\WebStorm 2017.1.4\bin" />
-              <option name="projectOpenTimestamp" value="1502880411883" />
-              <option name="buildTimestamp" value="1496849138651" />
+              <option name="projectOpenTimestamp" value="1502882392308" />
+              <option name="buildTimestamp" value="1496849150055" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

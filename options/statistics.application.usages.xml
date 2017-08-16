@@ -1,7 +1,11 @@
 <application>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="ideaapp.started" count="7" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.HTTP_Proxy" count="2" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ideaapp.started" count="10" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
       <entry feature="welcome.screen.null" count="1" />
