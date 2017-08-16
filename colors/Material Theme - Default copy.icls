@@ -1,15 +1,11 @@
 <scheme name="Material Theme - Default copy" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.6" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Courier" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -892,9 +888,6 @@
         <option name="FOREGROUND" value="e91e63" />
       </value>
     </option>
-    <option name="LUA_LUADOC" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="LUA_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="LUA_UPVAL" baseAttributes="LUA_LOCAL_VAR" />
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
