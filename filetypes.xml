@@ -8,6 +8,7 @@
       <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping pattern="test/js" type="PLAIN_TEXT" />
+      <mapping pattern="year-recommend" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
       <mapping ext="inc" type="XHTML" />
     </extensionMap>
