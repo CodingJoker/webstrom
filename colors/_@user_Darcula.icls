@@ -1,17 +1,11 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2016-11-22T11:34:56</property>
+    <property name="created">2019-01-02T14:46:04</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2018-12-21T14:55:17</property>
+    <property name="ideVersion">2018.3.1.0.0</property>
+    <property name="modified">2019-01-02T15:06:14</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="FILESTATUS_ADDED" value="80cbc4" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
@@ -26,7 +20,6 @@
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="3c3f41" />
-    <option name="FILESTATUS_SWITCHED" value="" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
   </colors>
